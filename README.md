@@ -1,1 +1,3 @@
-i'm a programmer 
+i'm a programmer
+
+Тут будут практические работы, конспекты.
