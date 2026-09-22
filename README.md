@@ -1,2 +1,1 @@
-# glebass
-work
+i'm a programmer 
