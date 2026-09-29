@@ -8,3 +8,4 @@ i'm a programmer
 - [Markdown](/THEORY.md)
 - [Mermaid](/MERMAID.md)
 - [Task_mermade](/task_mermaid.md)
+- [Bush CLI](/Bash CLI)
