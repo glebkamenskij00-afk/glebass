@@ -10,3 +10,4 @@ i'm a programmer
 - [Task_mermade](/task_mermaid.md)
 - [Bash CLI](/BASH_CLI.md)
 - [bashscript](/bashscripts.md)
+- [git](/git.md)
