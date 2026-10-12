@@ -9,11 +9,6 @@ i'm a programmer
 - [Mermaid](/MERMAID.md)
 - [Task_mermade](/task_mermaid.md)
 - [Bash CLI](/BASH_CLI.md)
-<<<<<<< HEAD
 - [Bashscript](/bashscripts.md)
 - [Git](/git.md)
-=======
-- [bashscript](/bashscripts.md)
-- [git](/git.md)
-12.10.2026
->>>>>>> test
+
