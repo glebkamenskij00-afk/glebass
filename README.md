@@ -11,3 +11,4 @@ i'm a programmer
 - [Bash CLI](/BASH_CLI.md)
 - [bashscript](/bashscripts.md)
 - [git](/git.md)
+12.10.2026
