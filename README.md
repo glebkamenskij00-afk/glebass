@@ -13,4 +13,4 @@ i'm a programmer
 - [Git](/git.md)
 
 ## Ссылка на репозиторий с сайтом
-[ЖелезоПром — Скупка компьютерного железа | Каменский Глеб] https://github.com/glebkamenskij00-afk/mysite.Intex.html
+[ЖелезоПром — Скупка компьютерного железа | Каменский Глеб](https://github.com/glebkamenskij00-afk/mysite.Intex.html)
