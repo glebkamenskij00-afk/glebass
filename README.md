@@ -14,3 +14,4 @@ i'm a programmer
 
 ## Ссылка на репозиторий с сайтом
 [ЖелезоПром — Скупка компьютерного железа | Каменский Глеб](https://github.com/glebkamenskij00-afk/mysite.Intex.html)
+[сайт](https://glebkamenskij00-afk.github.io/mysite.Intex.html/)
