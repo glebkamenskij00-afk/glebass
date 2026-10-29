@@ -18,4 +18,4 @@ i'm a programmer
 ### репозиторий преподавателя 
 - [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
 ### cybermfua(team_project)
-- [Cybermfua](https://sirexu.github.io/Cybermfua/)
+- [Cybermfua](https://github.com/SiReXu/Cybermfua)
