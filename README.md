@@ -15,3 +15,7 @@ i'm a programmer
 ## Ссылка на репозиторий с сайтом
 [ЖелезоПром — Скупка компьютерного железа | Каменский Глеб](https://github.com/glebkamenskij00-afk/mysite.Intex.html)
 [сайт](https://glebkamenskij00-afk.github.io/mysite.Intex.html/)
+### репозиторий преподавателя 
+- [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
+### cybermfua(team_project)
+- [Cybermfua](https://sirexu.github.io/Cybermfua/)
