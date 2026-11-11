@@ -17,7 +17,7 @@
 docker version
 ```
 
-![Скрин версии Docker](img/docker_version.png)
+![Скрин версии Docker](/docker/Nginx/Снимок%20экрана%202026-11-11%20144931.png)
 
 > Готовые образы берутся из сторонних источников: **Docker Hub** или другие
 
@@ -109,7 +109,7 @@ docker images
 curl http://localhost/
 ```
 
-![Скрин вывода curl](img/curl_nginx.png)
+![Скрин вывода curl](/docker/Nginx/Снимок%20экрана%202026-11-11%20134633.png)
 
 Способ 2 - [открыть http://localhost/ адрес в браузере](http://localhost/)
 
@@ -173,7 +173,7 @@ docker images
 docker rmi id_образа
 ```
 
-![Скрин состояния docker images](img/rm_image.png)
+![Скрин состояния docker images](/docker/Nginx/Снимок%20экрана%202026-11-11%20134732.png)
 
 ### 4. Проверить работу контейнера
 
@@ -187,7 +187,7 @@ docker run -d --name my-nginx -p 80:80 nginx
 docker images
 ```
 
-![Скрин образа](img/2_images.png)
+![Скрин образа]()
 
 Показать только запущенные контейнеры
 ```shell
@@ -197,7 +197,7 @@ docker ps
 ```shell
 docker ps -a
 ```
-![Скрин контейнера](img/contaurer.png)
+![Скрин контейнера](/docker/Nginx/Снимок%20экрана%202026-11-11%20145739.png)
 
 > Из одного образа можно получить несколько контейнеров!
 
