@@ -315,14 +315,14 @@ htop
 cmatrix
 ```
 
-![Скрин вывода cmatrix]()
+![Скрин вывода cmatrix](/docker/Nginx/Снимок%20экрана%202026-11-11%20140032.png)
 
 > Выйти из `cmatrix` можно по **Q**
 
 ```shell
 hollywood
 ```
-![Скрин вывода hollywood]()bash
+![Скрин вывода hollywood](/docker/Nginx/Снимок%20экрана%202026-11-11%20151303.png)bash
 
 > Выйти из `hollywood` можно по `Ctrl-C`
 
