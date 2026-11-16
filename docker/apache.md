@@ -12,7 +12,7 @@
 ```shell
 docker run -d --name my-apache -p 8081:80 httpd
 ```
-![task 3](/Docker/Apache/task%203.png)
+![task 3](/docker/Nginx/Снимок%20экрана%202026-11-16%20112347.png)
 
 ![task 1](/Docker/Apache/task%201.png)
 
