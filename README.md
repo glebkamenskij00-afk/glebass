@@ -12,9 +12,9 @@ i'm a programmer
 - [Bashscript](/bashscripts.md)
 - [Git](/git.md)
 - [Docker](/docker)
-- [Adminer](/docker/Adminer.md)
-- [Apache](/docker/apache.md)
-- [Libredb](/docker/Libredb%20studio.md)
+
+## лабораторные работы docker
+- [Docker labs](/docker/dockerlabs.md)
 
 ## Ссылка на репозиторий с сайтом
 [ЖелезоПром — Скупка компьютерного железа | Каменский Глеб](https://github.com/glebkamenskij00-afk/mysite.Intex.html)
