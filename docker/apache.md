@@ -16,7 +16,7 @@ docker run -d --name my-apache -p 8081:80 httpd
 
 ![task 1](/Docker/Apache/task%201.png)
 
-[Откройте адрес http://localhost:8081 в браузере](/docker/Nginx/Снимок%20экрана%202026-11-23%20091530.png)
+[Откройте адрес http://localhost:8081 в браузере](http://localhost:8081)
 
 ### Редактирование веб-страницы
 
