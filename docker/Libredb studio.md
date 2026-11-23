@@ -17,12 +17,11 @@
 docker run -p 3000:3000 ghcr.io/libredb/libredb-studio:latest
 ```
 
-![task 1](/Docker/Nginx/Снимок%20экрана%202026-11-16%20113821.png)
+![task 1](/docker/Nginx/Снимок%20экрана%202026-11-23%20111111.png)
 
 в консоле вы увидите сгенерированные автоматически e-mail и пароль, которые введёте в Sing In интерфейса приложения в [браузере http://localhost:3000](http://localhost:3000)
 
-![task 2](/Docker/Nginx/Снимок%20экрана%202026-11-16%20113935.png)
-
+![task 2](/docker/Nginx/Снимок%20экрана%202026-11-23%20111211.png)
 
 или с заданными заранее e-mail и пароль (Git-Bash/Linux)
 ```shell
@@ -47,7 +46,7 @@ docker run -d \
 docker ps -a
 ```
 
-![task 3](/Docker/Nginx/Снимок%20экрана%202026-11-16%20114214.png)
+![task 3](/docker/Nginx/Снимок%20экрана%202026-11-23%20111211.png)
 
 останавливаем его, если запущен
 ```shell
