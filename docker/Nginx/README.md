@@ -217,7 +217,7 @@ docker inspect my-nginx
 
 Запустить мониторинг контейнеров
 ```shell
-docker stats
+docker sta
 ```
 
 ![](img/2_stats.png)

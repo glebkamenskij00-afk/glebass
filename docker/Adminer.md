@@ -33,7 +33,7 @@ docker run -d \
 
 ![task 2](/Docker/Adminer/task%202.png)
 
-[Откройте: http://localhost:8084](http://localhost:8084)
+[Откройте: http://localhost:8084](/docker/Nginx/Снимок%20экрана%202026-11-23%20091424.png)
 
 ![task 3](/docker/Nginx/Снимок%20экрана%202026-11-16%20113250.png)
 
